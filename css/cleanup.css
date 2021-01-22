@@ -16,6 +16,6 @@
   display: none;
 }
 
-div#wall :not(p) .parent #tag-5.slickk {
+div#wall .parent #tag-5.slick :not(p)  {
   display: none;
 }
