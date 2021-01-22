@@ -8,6 +8,6 @@
   display: none;
 }
 
-#wall #tag2 + #tag-3 {
+#wall > #tag2 + #tag-3.class {
   display: none;
 }
