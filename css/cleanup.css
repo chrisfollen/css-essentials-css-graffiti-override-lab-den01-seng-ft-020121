@@ -8,6 +8,6 @@
   display: none;
 }
 
-div#wall #tag2 + #tag-3.slick {
+div#wall .tag-1 ~ #tag-2 #tag-3.slick {
   display: none;
 }
